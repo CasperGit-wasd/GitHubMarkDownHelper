@@ -10,5 +10,10 @@
 </details>
 
 ## Table Of Content
-[Text](https://github.com/CasperGit-wasd/GitHubMarkDownHelper/blob/main/Text.md)
-[Looks](https://github.com/CasperGit-wasd/GitHubMarkDownHelper/blob/main/Looks.md)
+<h3>[Text]</h3>(https://github.com/CasperGit-wasd/GitHubMarkDownHelper/blob/main/Text.md)
+<br>
+<br>
+<h3>[Looks]</h3>(https://github.com/CasperGit-wasd/GitHubMarkDownHelper/blob/main/Looks.md)
+<br>
+<br>
+<h3>[Function]</h3>(https://github.com/CasperGit-wasd/GitHubMarkDownHelper/blob/main/Function.md)
