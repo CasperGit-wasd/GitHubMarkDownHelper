@@ -10,4 +10,5 @@
 </details>
 
 ## Table Of Content
-[Text](https://
+[Text](https://github.com/CasperGit-wasd/GitHubMarkDownHelper/blob/main/Text.md)
+[Looks](
