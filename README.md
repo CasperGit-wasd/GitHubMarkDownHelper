@@ -9,6 +9,9 @@
 
 </details>
 
+> [!IMPORTANT]
+> ` _ `(dash symbo)is the thing whatever you want to set
+
 ## Table Of Content
 <h3>[Text]</h3>(https://github.com/CasperGit-wasd/GitHubMarkDownHelper/blob/main/Text.md)
 <br>
